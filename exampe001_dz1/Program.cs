@@ -11,10 +11,9 @@ int num2 = Convert.ToInt32(Console.ReadLine());
 
 if (num1 > num2)
 {
-    Console.WriteLine("первое  число больше второго ");
+    Console.WriteLine(num1 + " больше чем " + num2 );
 }
 else if (num1 < num2)
 {
-    Console.WriteLine("второе число больше первого");
+    Console.WriteLine(num1 + " меньше чем " + num2);
 }
-Console.ReadKey();

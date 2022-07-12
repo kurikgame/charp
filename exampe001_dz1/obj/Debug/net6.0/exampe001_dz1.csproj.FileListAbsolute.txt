@@ -1,0 +1,15 @@
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\bin\Debug\net6.0\exampe001_dz1.exe
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\bin\Debug\net6.0\exampe001_dz1.deps.json
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\bin\Debug\net6.0\exampe001_dz1.runtimeconfig.json
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\bin\Debug\net6.0\exampe001_dz1.dll
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\bin\Debug\net6.0\exampe001_dz1.pdb
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\obj\Debug\net6.0\exampe001_dz1.csproj.AssemblyReference.cache
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\obj\Debug\net6.0\exampe001_dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\obj\Debug\net6.0\exampe001_dz1.AssemblyInfoInputs.cache
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\obj\Debug\net6.0\exampe001_dz1.AssemblyInfo.cs
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\obj\Debug\net6.0\exampe001_dz1.csproj.CoreCompileInputs.cache
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\obj\Debug\net6.0\exampe001_dz1.dll
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\obj\Debug\net6.0\refint\exampe001_dz1.dll
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\obj\Debug\net6.0\exampe001_dz1.pdb
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\obj\Debug\net6.0\exampe001_dz1.genruntimeconfig.cache
+C:\Users\kurik\Desktop\charp1\exampe001_dz1\obj\Debug\net6.0\ref\exampe001_dz1.dll
